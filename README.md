@@ -1,2 +1,1 @@
-# asp.net-mvc
-utilização de asp.net mvc para criação de site com banco de dados
+Utilização do ASP.NET MVC para criação de um site, simulando uma página de registro de usuário e banco de dados.
