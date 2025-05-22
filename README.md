@@ -1,1 +1,1 @@
-Utilização do ASP.NET MVC para criação de um site, simulando uma página de registro de usuário e banco de dados.
+ASP.NET MVC project to create a website with user login and database integration.
